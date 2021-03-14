@@ -272,11 +272,11 @@
         "pk":20
         "fields":{
             "name":"Shivangi Singh",
-            "field":"Android Development",
+            "field":"Android Development|OSS",
             "email":"shivangisingh1702@gmail.com",
             "github":"https://github.com/ShivangiSingh17",
             "github_username":"ShivangiSingh17",
-            "languages":" "
+            "languages":"Java|Python"
         }
     
     }
